@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nadeem
 - 👀 I’m interested in FullStack Development and DevOps
 - 🌱 I’m currently learning Backend Frameworks for effecient and faster development
-- 💞️ I’m looking to collaborate with Developers to create endeavor projects
+- ✨ I’m looking to collaborate with Developers to create endeavor projects
 - 📫 How to reach me- Email- syednadeem192004@gmail.com
 
 <!---
